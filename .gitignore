@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Keras / TensorFlow
+*.h5
+*.keras
+
+# Jupyter
+.ipynb_checkpoints/
